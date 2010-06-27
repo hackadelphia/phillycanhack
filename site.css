@@ -36,8 +36,9 @@ body {
 }
 
 #contentpane {
+  font-family: serif;
   background-color: #446;
-  color: #CCC; 
+  color: #DDD; 
   padding: 20px;
   border-left: 1px solid black;
   border-right: 1px solid black;
@@ -55,6 +56,15 @@ body {
   -moz-border-radius-bottomleft: 10px;
   -moz-border-radius-bottomright: 10px;
 }
+
+#contentpane a {
+  color: #BBC;
+}
+
+#contentpane a:visited {
+  color: #AAB;
+}
+
 
 #footer {
   color: #111;

@@ -1,6 +1,8 @@
 body {
-  width: 800px;
   background-color: #888;
+}
+#bodypane {
+  width: 800px;
   color: #000;
   font-family: sans-serif;
   margin-left: auto;

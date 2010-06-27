@@ -1,3 +1,5 @@
+task :default => [:view]
+
 task :view => [:compile] do
   sh "open index.html"
 end

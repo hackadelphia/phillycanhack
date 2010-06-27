@@ -36,7 +36,8 @@ body {
 }
 
 #contentpane {
-  font-family: serif;
+  font-family: monospace;
+  font-weight: bold;
   background-color: #446;
   color: #DDD; 
   padding: 20px;
